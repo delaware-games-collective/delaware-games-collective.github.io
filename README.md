@@ -1,6 +1,6 @@
 # Welcome to the Delaware Games Collective website!
 
-We're just starting out, but feel free to join our [Discord server](https://discord.gg/HxBjaQ), [Facebook Page](https://www.facebook.com/DelawareGamesCollective/), [Twitter](https://twitter.com/DelawareGames) or contact an [organizer](mailto:alina.christenbury@gmail.com)!
+We're just starting out, but feel free to join our [Discord server](https://discord.gg/HxBjaQ), [Facebook Page](https://www.facebook.com/DelawareGamesCollective/), [Twitter](https://twitter.com/DelawareGames) or joing the [mailing list](https://forms.gle/LzEPMqJopc7twbNG9)!
 
 The core idea is to build a community of game developers in the Delaware area.
 
