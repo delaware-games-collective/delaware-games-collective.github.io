@@ -10,3 +10,4 @@ Long term we could host game jams and other outreach/community events, and overa
 
 Most of our online community activity is going to be through the [Discord server](https://discord.gg/HxBjaQ), so come say hi!
 
+[Open Collecive](https://opencollective.com/delaware-games-collective) page
