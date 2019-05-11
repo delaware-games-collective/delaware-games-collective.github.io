@@ -1,6 +1,6 @@
 # Welcome to the Delaware Games Collective website!
 
-We're just starting out, but feel free to join our community on our [Discord server](https://discord.gg/cjnr63) or [Meetup Group](https://www.meetup.com/Delaware-Games-Collective/). Alternatively, sign up for our [mailing list](https://forms.gle/LzEPMqJopc7twbNG9), or follow us on [Facebook](https://www.facebook.com/DelawareGamesCollective/) and [Twitter](https://twitter.com/DelawareGames). Back us or make a one-time donation at [Open Collecive](https://opencollective.com/delaware-games-collective).
+We're just starting out, but feel free to join our community on our [Discord server](https://discord.gg/H8ZfVN9) or [Meetup Group](https://www.meetup.com/Delaware-Games-Collective/). Alternatively, sign up for our [mailing list](https://forms.gle/LzEPMqJopc7twbNG9), or follow us on [Facebook](https://www.facebook.com/DelawareGamesCollective/) and [Twitter](https://twitter.com/DelawareGames). Back us or make a one-time donation at [Open Collecive](https://opencollective.com/delaware-games-collective).
 
 The core idea is to build a community of game makers, developers, and artists in the Delaware area.
 
