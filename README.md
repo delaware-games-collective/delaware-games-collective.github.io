@@ -1,4 +1,4 @@
-# Welcome to the Delaware Games Collective website!
+# Welcome to the Delaware Games Collective!
 
 ![logo](logo.png)
 
