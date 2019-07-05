@@ -8,7 +8,7 @@ It would be really amazing if we could become something of a hub for people inte
 
 Long term we could host game jams and other outreach/community events, and overall facilitate collaboration between people with different skillsets to work on their games.
 
-Most of our online community activity is going to be through the [Discord server](https://discord.gg/HxBjaQ), so come say hi!
+Most of our online community activity is going to be through the [Discord server](https://discord.gg/vA7e8GV), so come say hi!
 
 <script src="https://opencollective.com/delaware-games-collective/banner.js"></script>
 
