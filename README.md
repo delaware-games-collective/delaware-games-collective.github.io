@@ -2,6 +2,8 @@
 
 We're just starting out, but feel free to join our community on our [Discord server](https://discord.gg/vA7e8GV) or [Meetup Group](https://www.meetup.com/Delaware-Games-Collective/). Back us or make a one-time donation on [Open Collecive](https://opencollective.com/delaware-games-collective).
 
+<iframe src="https://discordapp.com/widget?id=575350791507017738&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/Delaware-Games-Collective" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Delaware-Games-Collective', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
 The core idea is to build a community of game makers, developers, and artists in the Delaware area.
