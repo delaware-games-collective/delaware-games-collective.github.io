@@ -17,7 +17,7 @@ Most of our online community activity is going to be through the [Discord server
          
 [Email](hello@delawaregamescollective.org) | [Facebook](https://www.facebook.com/DelawareGamesCollective/) | [Twitter](https://twitter.com/DelawareGames) | [LinkedIn](https://www.linkedin.com/company/delaware-games-collective)
 
-Logo by [Lenny Zhou](mailto:zhoulangchun@gmail.com)  
+Logo by [Lenny Zhou](https://twitter.com/lenny_zhou)  
 Website by [Alina Christenbury](http://alinac.me/)
 
 <script src="https://opencollective.com/delaware-games-collective/banner.js"></script>
