@@ -12,7 +12,7 @@ Long term we could host game jams and other outreach/community events, and overa
 
 Most of our online community activity is going to be through the [Discord server](https://discord.gg/vA7e8GV), so come say hi!
 
-<iframe src="https://calendar.google.com/calendar/embed?src=5flq3atpnvsqe3g0ug1fdf3als%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=5flq3atpnvsqe3g0ug1fdf3als%40group.calendar.google.com&amp;ctz=America%2FNew_York" style="border: 0;margin-left:0; margin-right:0;max-width: 100%;" scrolling="no" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
          
 [Email](hello@delawaregamescollective.org) | [Facebook](https://www.facebook.com/DelawareGamesCollective/) | [Twitter](https://twitter.com/DelawareGames) | [LinkedIn](https://www.linkedin.com/company/delaware-games-collective)
